@@ -1,0 +1,13 @@
+c:\users\sudipta\documents\visual studio 2017\Projects\LctTraining\LctTraining\bin\Debug\LctTraining.exe.config
+c:\users\sudipta\documents\visual studio 2017\Projects\LctTraining\LctTraining\bin\Debug\LctTraining.exe
+c:\users\sudipta\documents\visual studio 2017\Projects\LctTraining\LctTraining\bin\Debug\LctTraining.pdb
+c:\users\sudipta\documents\visual studio 2017\Projects\LctTraining\LctTraining\obj\Debug\LctTraining.csprojResolveAssemblyReference.cache
+c:\users\sudipta\documents\visual studio 2017\Projects\LctTraining\LctTraining\obj\Debug\LctTraining.exe
+c:\users\sudipta\documents\visual studio 2017\Projects\LctTraining\LctTraining\obj\Debug\LctTraining.pdb
+D:\Sourcecode\LctTraining\LctTraining\bin\Debug\LctTraining.exe.config
+D:\Sourcecode\LctTraining\LctTraining\bin\Debug\LctTraining.exe
+D:\Sourcecode\LctTraining\LctTraining\bin\Debug\LctTraining.pdb
+D:\Sourcecode\LctTraining\LctTraining\obj\Debug\LctTraining.csprojAssemblyReference.cache
+D:\Sourcecode\LctTraining\LctTraining\obj\Debug\LctTraining.csproj.CoreCompileInputs.cache
+D:\Sourcecode\LctTraining\LctTraining\obj\Debug\LctTraining.exe
+D:\Sourcecode\LctTraining\LctTraining\obj\Debug\LctTraining.pdb

@@ -1,0 +1,134 @@
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\ApplicationInsights.config
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\csc.exe
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\csc.exe.config
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\csc.rsp
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\csi.exe
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\csi.rsp
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\vbc.exe
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\vbc.rsp
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\CosmosDBWebApp.dll.config
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\CosmosDBWebApp.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\CosmosDBWebApp.pdb
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\System.Web.Optimization.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\WebGrease.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\System.Web.Optimization.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\obj\Debug\CosmosDBWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\obj\Debug\CosmosDBWebApp.dll
+C:\Users\Sudipta\documents\visual studio 2017\Projects\LctTraining\CosmosDBWebApp\obj\Debug\CosmosDBWebApp.pdb
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\DocumentDB.Spatial.Sql.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\ApplicationInsights.config
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\csc.exe
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\csc.exe.config
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\csc.rsp
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\csi.exe
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\csi.rsp
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\System.AppContext.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\vbc.exe
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\vbc.exe.config
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\vbc.rsp
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\VBCSCompiler.exe
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\CosmosDBWebApp.dll.config
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\CosmosDBWebApp.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\CosmosDBWebApp.pdb
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Antlr3.Runtime.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\AspNet.ScriptManager.jQuery.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.Web.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.WindowsServer.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.ApplicationInsights.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.Azure.Documents.Client.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Newtonsoft.Json.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\System.Web.Optimization.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\WebGrease.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.Azure.Documents.Client.xml
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Newtonsoft.Json.xml
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\System.Web.Optimization.xml
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Antlr3.Runtime.pdb
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.ApplicationInsights.xml
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.WindowsServer.xml
+D:\Sourcecode\LctTraining\CosmosDBWebApp\bin\Microsoft.AI.Web.xml
+D:\Sourcecode\LctTraining\CosmosDBWebApp\obj\Debug\CosmosDBWebApp.csprojAssemblyReference.cache
+D:\Sourcecode\LctTraining\CosmosDBWebApp\obj\Debug\CosmosDBWebApp.csproj.CoreCompileInputs.cache
+D:\Sourcecode\LctTraining\CosmosDBWebApp\obj\Debug\CosmosDBWebApp.csproj.CopyComplete
+D:\Sourcecode\LctTraining\CosmosDBWebApp\obj\Debug\CosmosDBWebApp.dll
+D:\Sourcecode\LctTraining\CosmosDBWebApp\obj\Debug\CosmosDBWebApp.pdb
