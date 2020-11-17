@@ -1,18 +1,18 @@
-b1: dotnet ef database drop --force --context StoreDbContext
-xóa database
-b2:Hiển thị dữ liệu ra màn hình 
-sửa controller
-lưu ý phải có View(repository.Products); thì mới đẩy được dữ liệu ra
-b3:phân trang
+# B1: Chạy dotnet ef database drop --force --context StoreDbContext
+Xóa database
+# B2: Hiển thị dữ liệu ra màn hình 
+Sửa controller
+Lưu ý phải có View(repository.Products); thì mới đẩy được dữ liệu ra
+# B3: Phân trang
 Sửa controller
 Thêm PagingInfo
-tạo forder Infrastructure => tạo class PageLinkTagHelper
-b4: sửa file _ViewImpost.cshtml
+Tạo forder Infrastructure => tạo class PageLinkTagHelper
+# B4: Sửa file _ViewImpost.cshtml
 @using AhihiStore.Models.ViewModels;
 @addTagHelper*, AhihiStore;
-b5: tạo forder ViewModel trong Models
-+ tạo class PagingInfo
-b6: tạo viewmodels data
-+ tạo class PagingInfo
-+ tạo class ProductsListViewModel
-b7: tạo productListViewModel trong ViewModels
+# B5: Tạo forder ViewModel trong Models
+Tạo class PagingInfo
+# B6: Tạo viewmodels data
+- Tạo class PagingInfo
+- Tạo class ProductsListViewModel
+# B7: Tạo productListViewModel trong ViewModels
