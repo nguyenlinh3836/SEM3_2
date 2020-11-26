@@ -1,0 +1,44 @@
+﻿@*@model IQueryable<Product>*@
+@model ProductsListViewModel
+
+@foreach (var p in Model.Products)
+{
+    <partial name="ProductSummary" model="p" />
+    @*<div class="card card-outline-primary m-1 p-1">
+            <div class="bg-faded p-1">
+                <h4>@p.Name</h4>
+                <img src="@p.Img" />
+                <span class="badge badge-pill badge-primary" style="float:right;font-size:20px">
+                    <small>@p.Price.ToString("c")</small>
+
+                </span>
+                <span class="badge badge-pill badge-primary" style="float:right;font-size:20px">
+                    <small>@p.Discount</small>
+
+                </span>
+
+            </div>
+            <div class="card-text p-1">
+                @p.Description
+
+
+            </div>
+        </div>*@
+
+    @*<div class="col-md-4" style="float:left">
+            <h3 style="height:70px">Name: @p.Name</h3>
+            <p style="height:70px">Description: @p.Description</p>
+
+            <img src="@p.Img" width="150" height="250" />
+            <h4>Price: @p.Price.ToString("c")</h4>
+            <h5>Discount: @p.Discount%</h5>
+            <h4>Category: @p.Category</h4>
+            <hr />
+        </div>*@
+}
+
+<div page-model="@Model.PagingInfo" page-action="Index"
+     page-classes-enabled="true"
+     page-class="btn" page-class-normal="btn-outline-dark"
+     page-class-selected="btn-primary" class="btn-group pull-righr m-1">
+</div>
