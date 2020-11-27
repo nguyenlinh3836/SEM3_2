@@ -28,7 +28,7 @@ namespace DrinkStores.Models
                     {
                         Name = "Trà phô mai kem sữa",
                         Description = " Một món nước uống vừa béo ngậy, chua ngọt đủ cả mà vẫn có vị thanh của trà",
-                        Img = "https://github.com/dudq2001/SEM3/blob/master/DrinkStores/tra-pho-mai-kem-sua(1).jpg",
+                        Img = "http://royaltea.vn/temp/uploaded-san%20pham_32974763_1198037793670751_2405859736541986816_n_thumbcr_364x271.png",
                         Price = 50,
                         Category = "Trà",
                         Discount = 35
@@ -37,7 +37,7 @@ namespace DrinkStores.Models
                     {
                         Name = "Cafe-latte",
                         Description = "Cafe latte được tạo hình một cách nghệ thuật, độc đáo",
-                        Img = "https://github.com/dudq2001/SEM3/blob/master/DrinkStores/cafe-latte(1).jpg",
+                        Img = "http://royaltea.vn/temp/uploaded-san%20pham_33058655_1198037763670754_2207856225163411456_n_thumbcr_364x271.png",
                         Price = 60,
                         Category = "Cà phê",
                         Discount = 45
@@ -46,17 +46,16 @@ namespace DrinkStores.Models
                     {
                         Name = "Ca-cao",
                         Description = "Cacao không chỉ ngon mà còn rất bổ dưỡng, cacao giàu protein, chứa nhiều axit béo",
-                        Img= "https://github.com/dudq2001/SEM3/blob/master/DrinkStores/ca-cao(1).jpg",
+                        Img= "http://royaltea.vn/temp/uploaded-san%20pham_33083909_1198037773670753_3116257398998695936_n_thumbcr_364x271.png",
                         Price = 35,
                         Category = "Nước",
                         Discount = 20
                     },
                     new Product
                     {
-                        Name = "Trà sữa chân trâu đường đen",
-                        Description = "Neutral grain spirit.NOT to be drunk neat.",
-                        Img = "Món đồ uống này không hề có các nguyên liệu cầu kỳ mà chỉ là vị sữa thơm ngậy, trân châu giòn ngon ngấm vị đường" +
-                        " đen ngọt lịm, tạo nên mùi vị thơm béo mà không hề ngấy.",
+                        Name = "Trà sữa chân trâu đường đen",                      
+                        Description = "Món đồ uống này không hề có các nguyên liệu cầu kỳ mà chỉ là vị sữa thơm ngậy, trân châu giòn ngon ngấm vị đường",
+                        Img = "http://royaltea.vn/temp/uploaded-san%20pham_33058655_1198037763670754_2207856225163411456_n_thumbcr_364x271.png",
                         Price = 40,
                         Category = "Trà",
                         Discount = 30
@@ -65,7 +64,7 @@ namespace DrinkStores.Models
                     {
                         Name = "Sinh tố",
                         Description = "Sinh tố là món nước uống được pha chế từ các loại trái cây tươi, đá và nước ép trái cây hoặc sirô để lạnh",
-                        Img = "https://github.com/dudq2001/SEM3/blob/master/DrinkStores/sinh-to(1).jpg",
+                        Img = "http://royaltea.vn/temp/uploaded-san%20pham_33081272_1198037760337421_3481262952676327424_n_thumbcr_364x271.png",
                         Price = 30,
                         Category = "Nước",
                         Discount = 20
@@ -74,7 +73,7 @@ namespace DrinkStores.Models
                     {
                         Name = "Socola đá việt quất",
                         Description = "Soda việt quất với màu sắc bắt mắt cùng hương vị tuyệt vời",
-                        Img = "https://github.com/dudq2001/SEM3/blob/master/DrinkStores/so-da-viet-quat.jpg",
+                        Img = "http://royaltea.vn/temp/uploaded-san%20pham_33081272_1198037760337421_3481262952676327424_n_thumbcr_364x271.png",
                         Price = 42,
                         Category = "Nước",
                         Discount = 35
@@ -83,7 +82,7 @@ namespace DrinkStores.Models
                     {
                         Name = "Trà hoa quả",
                         Description = "Vị chua, vị ngọt của hoa quả hòa quyện với vị chan chát của trà sẽ mang đến những cảm giác sảng khoái cho ngày hè oi bức.",
-                        Img = "https://github.com/dudq2001/SEM3/blob/master/DrinkStores/tra-hoa-qua.jpg",
+                        Img = "http://royaltea.vn/temp/uploaded-san%20pham_33136425_1198037753670755_6011816456088453120_n_thumbcr_364x271.png",
                         Price = 25,
                         Category = "Trà",
                         Discount = 20
@@ -92,7 +91,7 @@ namespace DrinkStores.Models
                     {
                         Name = "Matcha đá xay",
                         Description = "Matcha đá xay có vị hơi ngọt, sệt như kem và có vị chát nhẹ đặc trưng của trà xanh, dịu nhẹ và ngát hương.",
-                        Img = "https://github.com/dudq2001/SEM3/blob/master/DrinkStores/matcha-da-xay(2).jpg",
+                        Img = "http://royaltea.vn/temp/uploaded-san%20pham_33038128_1198037780337419_1819453467773632512_n_thumbcr_364x271.png",
                         Price = 35,
                         Category = "Nước",
                         Discount = 28
@@ -101,7 +100,7 @@ namespace DrinkStores.Models
                     {
                         Name = "Trà đào chanh sả",
                         Description = "Trà đào chanh sả, như chính tên gọi của mình vậy, có vị đậm ngọt thanh của đào, có vị chua chua dịu nhẹ của chanh, có mùi thơm của sả.",
-                        Img = "https://github.com/dudq2001/SEM3/blob/master/DrinkStores/tra-dao-chanh-sa(2).jpg",
+                        Img = "http://royaltea.vn/temp/uploaded-san%20pham_33058655_1198037763670754_2207856225163411456_n_thumbcr_364x271.png",
                         Price = 33.08m,
                         Category = "Trà",
                         Discount = 35

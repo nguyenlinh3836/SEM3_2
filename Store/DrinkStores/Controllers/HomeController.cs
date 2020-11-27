@@ -42,8 +42,12 @@ namespace DrinkStores.Controllers
                 {
                     CurrentPage = productPage,
                     ItemsPerPage = PageSize,
-                    TotalItems = repository.Products.Count()
-                }
+                    TotalItems = category == null ?
+                    repository.Products.Count() :
+                    repository.Products.Where(
+                        e => e.Category == category).Count()
+                },
+                CurrentCategory = category
             });
 
         //public IActionResult Index(int productPage = 1)
@@ -53,6 +57,6 @@ namespace DrinkStores.Controllers
         //        .Take(PageSize)
         //    );
 
-        //public IActionResult Index() => View(repository.Products);           
-    }
+        //public IActionResult Index() => View(repository.Products);     
+    }      
 }

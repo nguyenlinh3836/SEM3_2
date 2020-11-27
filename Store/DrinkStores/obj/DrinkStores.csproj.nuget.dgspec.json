@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LEGION\\Downloads\\DrinkStores\\DrinkStores\\DrinkStores.csproj": {}
+    "D:\\LEARN_PROJECT\\SEM3\\Store\\DrinkStores\\DrinkStores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LEGION\\Downloads\\DrinkStores\\DrinkStores\\DrinkStores.csproj": {
+    "D:\\LEARN_PROJECT\\SEM3\\Store\\DrinkStores\\DrinkStores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LEGION\\Downloads\\DrinkStores\\DrinkStores\\DrinkStores.csproj",
+        "projectUniqueName": "D:\\LEARN_PROJECT\\SEM3\\Store\\DrinkStores\\DrinkStores.csproj",
         "projectName": "DrinkStores",
-        "projectPath": "C:\\Users\\LEGION\\Downloads\\DrinkStores\\DrinkStores\\DrinkStores.csproj",
+        "projectPath": "D:\\LEARN_PROJECT\\SEM3\\Store\\DrinkStores\\DrinkStores.csproj",
         "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LEGION\\Downloads\\DrinkStores\\DrinkStores\\obj\\",
+        "outputPath": "D:\\LEARN_PROJECT\\SEM3\\Store\\DrinkStores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",

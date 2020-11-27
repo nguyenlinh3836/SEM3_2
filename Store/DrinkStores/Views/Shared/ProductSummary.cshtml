@@ -1,18 +1,13 @@
-﻿@*@{
-        ViewData["Title"] = "ProductSummary";
-    }
-
-    <h1>ProductSummary</h1>*@
-
+﻿
 @model Product
 
 <div class="card card-outline-primary m-1 p-1">
     <div class="bg-faded p-1 ">
         <h4 style="">@Model.Name</h4>
-        <img src="@Model.Img" />
+        <img src="@Model.Img" width="350"/>
         <span class="badge badge-pill badge-primary" style="float:right;font-size:20px">
             <small>@Model.Price.ToString("c")</small>
-          
+
         </span>
         <span class="badge badge-pill badge-primary bg-danger" style="float:right;font-size:20px">
             <small>Sales : @Model.Discount%</small>
@@ -22,7 +17,19 @@
     <div class="card-text p-1">
         @Model.Description
     </div>
-    
+
+    <form method="post" asp-page="/Cart" id="@Model.Id">
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" name="returnUrl"
+               value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+        <span class="card-text p-1">
+            @Model.Description
+            <button type="submit" class="btn btn-success btn-sm pull-right" style="float:right">
+                Add To Cart
+            </button>
+        </span>
+    </form>
+
 </div>
 
 @*View Component*@

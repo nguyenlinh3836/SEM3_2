@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mSVn+IlccbxcB8K4QsENs0NW0ObvEYQsODZ7rh8RbqkgIm9gjL0oJqPkE+3xhNvVzpfU6QdRCMtpE4w/bgcpsA==",
+  "dgSpecHash": "2pGB2Bc5Am+zhBvnA6VjNKGDvjiLDCfArmvX3lJgVqZId6MdBZBwJKE1Gx7CwAFUuyjHTJdg5FpYSs74f+O0qQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LEGION\\Downloads\\DrinkStores\\DrinkStores\\DrinkStores.csproj",
+  "projectFilePath": "D:\\LEARN_PROJECT\\SEM3\\Store\\DrinkStores\\DrinkStores.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LEGION\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
