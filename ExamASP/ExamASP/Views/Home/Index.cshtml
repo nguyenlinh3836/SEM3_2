@@ -1,0 +1,12 @@
+﻿@model IQueryable<Employee>
+
+@foreach (var p in Model )
+{
+    <div class="card">
+        <img src= "@p.ImgUrl" class="card-img-top">
+        <div class="card-body">
+            <h3>@p.Name</h3>
+            <h4>@p.Age</h4>
+        </div>
+    </div>
+}
